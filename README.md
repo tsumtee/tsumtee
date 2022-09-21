@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Business Transformation Executive reviewing and optimising business processes. I'm currently leveraging on Microsoft Power Platform and UiPath to increase the efficiency at my workplace. 
+
 <!--
 **tsumtee/tsumtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
